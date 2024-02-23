@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PersonalProject2</string>
+    <string name="Login">Login</string>
+    <string name="Regis">Register</string>
+    <string name="Product">Product</string>
+    <string name="Cart">Cart</string>
+    <string name="Orders">Orders</string>
+    <string name="back_btn">Back</string>
+    <string name="OrderDetail">Order Detail</string>
+</resources>
